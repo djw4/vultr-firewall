@@ -1,5 +1,14 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "group:allNonMajor",
+    "group:recommended",
+    "default:pinDigestsDisabled",
+    ":automergeMinor",
+    ":automergePr"
+  ],
   "automerge": true,
+  "platformAutomerge": true,
   "ignoreTests": true
 }
