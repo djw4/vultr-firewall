@@ -7,11 +7,11 @@ verify_ssl = true
 pprint = "*"
 
 [packages]
-certifi = "==2020.6.20"
+certifi = "==2020.12.5"
 chardet = "==3.0.4"
 idna = "==2.10"
-requests = "==2.24.0"
-urllib3 = "==1.25.10"
+requests = "==2.32.5"
+urllib3 = "==1.26.20"
 loguru = "*"
 
 [requires]
