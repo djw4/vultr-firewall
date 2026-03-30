@@ -10,7 +10,7 @@ pprint = "*"
 certifi = "==2026.2.25"
 chardet = "==7.4.0.post2"
 idna = "==3.11"
-requests = "==2.33.0"
+requests = "==2.33.1"
 urllib3 = "==2.6.3"
 loguru = "*"
 
