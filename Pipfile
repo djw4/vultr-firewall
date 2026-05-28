@@ -9,7 +9,7 @@ pprint = "*"
 [packages]
 certifi = "==2026.5.20"
 chardet = "==7.4.3"
-idna = "==3.16"
+idna = "==3.17"
 requests = "==2.34.2"
 urllib3 = "==2.7.0"
 loguru = "*"
