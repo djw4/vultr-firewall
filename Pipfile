@@ -7,7 +7,7 @@ verify_ssl = true
 pprint = "*"
 
 [packages]
-certifi = "==2026.5.20"
+certifi = "==2026.6.17"
 chardet = "==7.4.3"
 idna = "==3.18"
 requests = "==2.34.2"
